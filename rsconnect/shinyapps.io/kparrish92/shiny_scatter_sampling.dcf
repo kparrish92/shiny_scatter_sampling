@@ -1,0 +1,11 @@
+name: shiny_scatter_sampling
+title:
+username:
+account: kparrish92
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5442487
+bundleId: 5468600
+url: https://kparrish92.shinyapps.io/shiny_scatter_sampling/
+when: 1642170387.9589
+lastSyncTime: 1642170387.95891
